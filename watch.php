@@ -21,19 +21,20 @@ Developer : Ashish Gurung
 
     <div class="container text-uppercase fs-1">
         <div class="row" style="color:white; min-height:100vh">
-            <div class="col w-50 bg-dark border border-white d-flex align-items-center justify-content-center">
-                <div class="d-flex align-items-center justify-content-center">
-                    09<span class="seperator">:</span>25 PM
+            <div class="col  bg-dark border border-white d-flex align-items-center justify-content-center">
+                <div class="d-flex flex-column">
+                    <div> syd time </div>
+                  <div id="Clock" class="d-flex">  09<span class="seperator">:</span>25 PM </div>
                 </div>
             </div>
             <div class="col w-50 bg-dark">
                 <div class="row border border-white h-50 d-flex align-items-center justify-content-center">
-                    <div class="d-flex align-items-center justify-content-center">
+                    <div class="d-flex justify-content-center">
                         09<span class="seperator">:</span>25 PM
                     </div>
                 </div>
                 <div class="row border border-white h-50 ">
-                    <div class="d-flex align-items-center justify-content-center">
+                    <div id="Clock3" class="d-flex align-items-center justify-content-center">
                         09<span class="seperator">:</span>25 PM
                     </div>
                 </div>
